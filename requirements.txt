@@ -1,9 +1,12 @@
 streamlit
+PyMuPDF
 Pillow
 python-docx
-PyMuPDF
+google-generativeai
+pandas
+plotly
+xlsxwriter
 spacy
 scikit-learn
 pdf2image
 nltk
-xlsxwriter
