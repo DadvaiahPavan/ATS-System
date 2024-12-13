@@ -1,4 +1,8 @@
 # 🚀 AI-Powered Applicant Tracking System (ATS)
+![UI](https://i.ibb.co/gDzfGcw/Screenshot-2024-12-13-143747.png)
+![Response](https://i.ibb.co/3zsTMLz/Screenshot-2024-12-13-142320.png)
+
+
 
 ## 📝 Project Overview
 
