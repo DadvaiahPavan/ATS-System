@@ -3,6 +3,7 @@
 ## 📝 Project Overview
 
 This AI-driven Applicant Tracking System (ATS) is a cutting-edge solution designed to revolutionize the recruitment process by providing intelligent resume analysis and matching capabilities.
+
 ![Cold Email Generator Interface](https://i.ibb.co/18cw3PG/Screenshot-2024-12-16-204621.png)
 
 ## ✨ Key Features
